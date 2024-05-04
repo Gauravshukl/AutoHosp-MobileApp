@@ -11,4 +11,4 @@ it is an flutter application build for all compatible devices android,web,macos 
 - User Authentication
 - Choices for application to do operation
  ## Screenshots 📱
- ![Screenshot (19)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/issues/1#issue-2279111325)
+ ![Screenshot (19)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/4d598d5d-d0c7-4606-a06a-ad7397b75556)
