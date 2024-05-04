@@ -11,6 +11,7 @@
 - User Databases
 - User Authentication
 - Choices for application to do operation
+- Control the IOT devices
  ## Screenshots 📱
  ![Screenshot (19)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/4d598d5d-d0c7-4606-a06a-ad7397b75556)
  ![Screenshot (19)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/b7a6f3dc-dfb3-42d8-b4ab-2e74cffdab1d)
