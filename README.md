@@ -20,3 +20,9 @@ it is an flutter application build for all compatible devices android,web,macos 
  ![Screenshot (19)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/deadf02c-4b05-42c4-90b3-8a6fb24d2858)
  ![Screenshot (19)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/a8317d8a-d346-433c-bcea-a9b751422bc3)
  ![Screenshot (19)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/8963dd24-36c6-4b5d-baec-7007a604838f)
+ ![Screenshot (29)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/bb548be8-9263-4de7-ba73-898edfd3f12c)
+ ![Screenshot (46)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/7a669660-5509-43e6-bcc9-21fbf246e66a)
+ ![Screenshot (49)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/70069509-d731-42fb-8d6e-9b7744eff7bc)
+ ![Screenshot (66)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/944e0bc9-e386-443c-9f07-740abd32a17b)
+![Screenshot (67)](https://github.com/Gauravshukl/Flutter-Firebase-Series-main/assets/48097137/802a4ac1-eb21-4e09-ac68-e63e6ba129f7)
+
