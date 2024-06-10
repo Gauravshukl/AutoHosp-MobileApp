@@ -1,10 +1,12 @@
 # Flutter-application  📱 -
-- It is an flutter application build for all compatible devices android,web,macos and ios.
-- These Application made in a way so that user an control the IOT devices from anywhere without the regional restrictions.
-# 📱 Technologies / Tools used for building this app includes: 
+- It is a flutter application built for all compatible devices android, web, macOS, and ios.
+- These applications are made so users can control the IOT devices from anywhere without regional restrictions.
+# 📱 Technologies / Tools used for building this app include: 
 - Android Studio / VS code 
 - Flutter/Dart
 - Firebase
+- Esp32
+- Arduino IDE
 ## ✨Features
 
 - User Login & Sign up
